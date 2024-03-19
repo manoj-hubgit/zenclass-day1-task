@@ -3,7 +3,7 @@ What is HTTP?
     Helps in web client and web server communication.
     With the help of HTTP request send to the server and the response send to the user.
 
-Evalution of HTTP;
+Evolution of HTTP;
     1) HTTP     (1991)
     2) HTTP/1.0 (1996)
     3) HTTP/1.1 (1997) 
