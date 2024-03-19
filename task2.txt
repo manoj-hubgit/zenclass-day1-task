@@ -16,11 +16,17 @@ What is properties?
            objectName["property"]
 
 What is object in JavaScript?
-   With the help of oblect we can structure and organize the data.
-   Object in JavaScript is an unordered collection of related data.
-   Object contain a combination of primitive data type.
-   Object is a reference data type.
-   if we create an object.The variable holds the reference point not the object. 
+      With the help of oblect we can structure and organize the data.
+   
+      Object in JavaScript is an unordered collection of related data.
+   
+      Object contain a combination of primitive data type.
+   
+      Object is a reference data type.
+   
+      if we create an object.The variable holds the reference point not the object. 
+   
+      JavaScript allows to inherit properties and methods from other objects.
 
 syntax example;
   var student ={
