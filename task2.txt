@@ -21,6 +21,8 @@ What is object in JavaScript?
       Object in JavaScript is an unordered collection of related data.
    
       Object contain a combination of primitive data type.
+      
+      Object contain key value and corresponding value.
    
       Object is a reference data type.
    
