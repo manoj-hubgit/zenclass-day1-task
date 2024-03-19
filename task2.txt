@@ -1,0 +1,36 @@
+
+What is primitive data type?
+   Number, string, boolean, null, undefined, and symbol are primitive data type.
+
+What is reference data type?
+    Reference data type do not have a fixed size.
+    example:
+        arrays,functions,objects.
+
+What is properties?
+    Properties are value accociated with object.
+    it is case sensitive.
+
+    accessing properties:
+           objectName.property 
+           objectName["property"]
+
+What is object in JavaScript?
+   With the help of oblect we can structure and organize the data.
+   Object in JavaScript is an unordered collection of related data.
+   Object contain a combination of primitive data type.
+   Object is a reference data type.
+   if we create an object.The variable holds the reference point not the object. 
+
+syntax example;
+  var student ={
+    name:'Manoj',
+    age:22,
+    currentlyemployed:fales
+  };
+
+To access the name 
+          console.log(student.age);    ==> output:22
+
+Another way to access the name
+          console.log(student['age']); ==> output:22
