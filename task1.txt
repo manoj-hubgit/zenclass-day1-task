@@ -12,8 +12,8 @@ Evolution of HTTP;
 What is TCP?
       TCP stands for Transmission Control Protocol.
       IP address is a essential thing for connecting to internet.
-      Data goes to the server as a pocket and come from the server as pockets.
-      The pockets are controlled by TCP.
+      Data goes to the server as a packet and come from the server as packets.
+      The packets are controlled by TCP.
       TCP will make the transmission process active.
 
 Difference between HTTP/1.1 and HTTP/2:
@@ -32,7 +32,7 @@ HTTP/2;
           The data landing will be faster.
           compression using Hpack compression techqunic and being transmitted to the network.
         
-        2)It is not in binary Protocol.
+        2)It is a binary Protocol.
           Very easy to parse the incomming request.
           Can't be used by humans easily.
           Effective network utilization.
